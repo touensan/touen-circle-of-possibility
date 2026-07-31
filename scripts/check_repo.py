@@ -46,6 +46,7 @@ REQUIRED_FILES = (
     "LICENSE",
     "SECURITY.md",
     "assets/possibility-hero.webp",
+    "assets/five-propositions.svg",
     "docs/zh-CN/TECHNICAL.md",
     "docs/zh-CN/PRACTICE.md",
 )
