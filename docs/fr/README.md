@@ -1,256 +1,280 @@
-# « Le Cercle des possibles de touen » : guide complet selon la méthode Feynman
+# The touen Circle of Possibility
 
-> Aucun sens ultime n’est nécessaire pour vivre pleinement.
+> **Aucun sens prévu d’avance ? Et alors. Tu peux quand même vivre fort.**
 
-Auteur : touen
+## 1. Allons droit au but
 
-> Les personnages et les situations pédagogiques de ce texte sont entièrement fictifs. Ils servent uniquement à expliquer les concepts et ne constituent pas une preuve de la validité du cadre.
+Un examen raté. Une candidature refusée. De l’argent perdu dans un projet. Une
+relation qui se termine.
 
-## 1. Quel problème ce cadre cherche-t-il à résoudre ?
+Ce sont des échecs. Ça fait mal. La perte est réelle, et l’addition reste à payer.
 
-Il part d’une question inconfortable :
+Puis arrive ce verdict à deux sous :
 
-> Si le monde n’a pas de sens ultime prédéterminé, pourquoi devrais-je faire quoi que ce soit ?
+> « J’ai perdu cette fois, donc je suis un raté. »
 
-Une réponse courante consiste à dire : « Crée ton propre sens. » Le Cercle des possibles emprunte une autre voie. Il prend explicitement comme point de départ philosophique que **le monde n’a pas de sens ultime prédéterminé**, au lieu de recréer un sens pour masquer le néant. C’est un axiome adopté par le cadre, et non une conclusion expérimentale déjà établie par les sciences naturelles.
+Au nom de quoi ?
 
-Il se contente de signaler une chose que l’on oublie facilement :
+Perdre une fois ne prouve qu’une chose : cette fois, tu as perdu. Ça ne prouve
+pas que toute ta vie est fichue.
 
-> « Il n’y a pas de sens ultime » et « je ne peux pas agir » ne sont pas la même affirmation.
+> **Assume l’addition. Refuse la condamnation.**
 
-L’eau n’a pas reçu de l’univers un sens ultime, et pourtant elle coule ; les astres n’ont pas de projet de vie, et pourtant ils poursuivent leur mouvement. La création, le voyage, la recherche, le repos, l’attention aux autres et la joie n’ont pas davantage besoin de l’autorisation préalable de l’univers.
+Ce cadre commence par déchirer le faux jugement qui prétend que tu es bon pour la
+casse.
 
-## 2. Pourquoi l’indifférence peut-elle encore contenir ce qui nous importe ?
+## 2. Concrètement, à quoi ça sert ?
 
-Imaginez une boîte portant l’étiquette « toutes les couleurs ».
+- La vie n’a peut-être aucun sens ultime, et cette idée ne te terrorise plus.
+- Tu assumes un mauvais résultat sans te jeter avec lui à la poubelle.
+- Un but lointain devient la prochaine action, pas une nouvelle nuit à ruminer.
+- Tant qu’une voie reste ouverte, tu cesses de te barrer toi-même le passage.
 
-Si elle contient vraiment toutes les couleurs, elle ne peut pas exclure le rouge. De même, si « rien n’a d’importance » englobe réellement tout, cela ne peut pas exclure la phrase : « cette chose m’importe maintenant ».
+Ici, personne ne te dit que « tout arrive pour une raison ».
 
-Ainsi :
+L’idée est plus solide :
 
-> Ce qui importe entre dans l’indifférence, et l’indifférence reste indifférente.
+> **Même si rien n’a de sens au bout du compte, tu peux aimer, créer, vivre à fond
+> et accomplir des choses bien réelles.**
 
-Cela ne signifie pas que ce qui nous importe possède secrètement un sens ultime. Cela signifie :
+## 3. L’univers n’a pas de corrigé. Et alors ?
 
-> Ce qui nous importe n’a pas besoin d’un sens ultime et ne contredit pas le néant.
+Peut-être que l’univers n’a jamais écrit pourquoi tu devrais vivre.
 
-Le premier effet du néant est de **lever une interdiction**. Il ne vous dit pas ce que vous devez poursuivre, mais il supprime la restriction erronée selon laquelle « puisqu’il n’y a pas de sens, il est interdit d’agir ».
+Et alors ?
 
-## 3. Le Cercle des possibles
+Ça t’empêche d’aimer quelqu’un, de gagner ta vie, de créer ou de remettre de
+l’ordre dans ton existence ? Bien sûr que non.
 
-Imaginez maintenant une carte qui contient toutes les bifurcations.
+L’absence de réponse toute faite signifie que personne n’a choisi pour toi. Elle
+ne signifie pas que tu ne peux pas choisir.
 
-À partir de cet instant, l’avenir peut prendre plusieurs directions. Certaines sont courantes, d’autres ont une probabilité infime, et d’autres encore peuvent dépasser notre compréhension actuelle. Nous appelons la totalité de ces directions possibles :
+Ici, « le néant » ne demande rien de plus : il n’existe ni corrigé cosmique ni
+barème universel.
 
-> **Le Cercle des possibles.**
+Une mauvaise journée ne donne pas à l’univers le droit de décréter que tu es
+« fichu en tant qu’être humain ».
 
-Le « cercle » exprime la complétude, l’absence de centre privilégié et l’absence de frontière ultime. Il ne prétend pas que le monde ait réellement la forme géométrique d’un cercle.
+Les conséquences humaines, elles, restent entières. Si tu blesses quelqu’un,
+trahis une promesse ou enfreins la loi, l’addition terrestre existe toujours.
 
-Le Cercle des possibles adopte un axiome métaphysique fort, appelé ici **axiome de réalisation de tous les possibles** :
+## 4. L’échec n’a pas à jouer au juge
 
-> Dès lors qu’un état est véritablement possible, il est effectivement réalisé dans une branche ou sous une forme d’existence atemporelle.
+Un examen raté dit seulement que la note était insuffisante cette fois.
 
-Ici, le « possible » ne se limite pas aux voies techniques connues aujourd’hui. Le cadre permet d’envisager un temps infini, des perturbations inconnues, d’autres structures physiques, voire des formes d’existence atemporelles.
+Une candidature refusée dit seulement que cette candidature n’a pas abouti.
 
-Mais la précision suivante est indispensable : il s’agit d’un axiome philosophique, non d’un résultat qui découlerait du seul mot mathématique *probabilité*, ni d’une proposition déjà démontrée par la mécanique quantique.
+Un projet qui coule dit seulement que cette méthode n’a pas fonctionné.
 
-## 4. Probabilité et néant : l’une déploie, l’autre contient
+Laquelle de ces phrases prouve que tout ton avenir est mort ?
 
-Prenons un jeu de cartes.
+Aucune.
 
-- Les règles du mélange permettent aux cartes d’apparaître dans différents ordres ; cela ressemble à la **probabilité / possibilité** qui déploie des différences.
-- La table ne rejette aucun ordre des cartes ; cela ressemble au **néant** qui contient les différences.
+> **Un échec est un résultat, pas une carte d’identité.**
 
-Ces deux principes ne sont pas hiérarchisés et aucun n’est « supérieur » :
+Il peut montrer qu’il te manque une compétence, que ta méthode est mauvaise ou
+que cette route précise est fermée. Très bien. Regarde la réalité en face.
+Apprends, change de méthode, prends une autre route ou revois ton objectif.
 
-| Principe | Rôle en termes simples |
-| --- | --- |
-| Probabilité / possibilité | Déploie le fait que « cela pourrait être ainsi, ou autrement » |
-| Néant | Empêche toute forme déployée d’obtenir un privilège ultime ou de renverser l’ensemble |
+La fin d’une route n’est pas ta fin.
 
-La probabilité conserve les distinctions ; le néant absorbe leur caractère ultime.
+## 5. La personne que tu es aujourd’hui n’est pas tout ce que tu es
 
-## 5. Les cinq couches du soi
+L’enfant que tu étais, c’était toi. Aujourd’hui, c’est toi. La personne que tu
+peux devenir dans dix ans, c’est encore toi.
 
-On peut imaginer une personne comme une histoire ouverte qui est en train de se dérouler.
+Tu ne prendrais pas la pire photo d’un album pour prétendre qu’elle est l’album
+entier.
 
-### Première couche : le soi corporel
+Alors ne prends pas ton pire jour pour toute ta vie.
 
-Le corps est le lieu où l’histoire entre réellement dans la réalité locale. Il se fatigue, se blesse, se déplace, fabrique des choses et supporte les conséquences juridiques et causales.
+Nous agissons déjà pour des personnes qui n’existent pas encore. Tu étudies pour
+toi l’an prochain, tu épargnes pour toi à soixante-dix ans et tu te soignes pour
+retrouver la santé.
 
-Sans action du corps, « choisir un avenir » ne reste qu’une phrase dans l’esprit.
+Ce cadre va un pas plus loin : tu ne te résumes pas aux années déjà vécues. Ton
+histoire inclut aussi les personnes que tu peux encore réellement devenir.
 
-### Deuxième couche : le soi phénoménal
+Aucun double dans un univers parallèle ne viendra faire le travail à ta place.
+L’idée est beaucoup plus simple :
 
-Le soi phénoménal est la perspective à la première personne qui voit le monde à cet instant, conserve une partie de ses souvenirs et dit : « c’est moi ».
+> **Aujourd’hui, tu es un arrêt sur image, pas le film entier.**
 
-« Phénoménal » ne veut pas dire « faux ». Cela indique seulement que, d’un instant à l’autre, notre expérience directe est une interface locale, et non la totalité des possibles.
+## 6. Tu veux renverser la situation ? Bouge
 
-### Troisième couche : le soi collectif des branches
+Une conviction ne passera pas les appels à ta place, n’apprendra pas une
+compétence pour toi et n’assumera pas les conséquences.
 
-En réunissant les versions du sujet dans le passé, le présent, l’avenir et toutes les branches possibles, on obtient le soi collectif des branches.
+Si tu veux un autre résultat, il faut agir dans le monde réel.
 
-Ce collectif n’est pas une organisation qui vote. C’est une extension de l’identité :
+> **Choisis une direction → commence → regarde le résultat → ajuste → recommence.**
 
-> Le moi actuel n’est plus compris comme l’unique point isolé, mais comme une manifestation locale au sein de la communauté de toutes ses versions possibles.
+Pas besoin de grand rituel. Pas besoin non plus de te sentir invincible avant de
+commencer.
 
-### Quatrième couche : le soi-esprit du néant
+Fais un vrai pas. Laisse la réalité répondre. Utilise sa réponse pour mieux
+choisir le pas suivant.
 
-Les corps, les souvenirs et les objectifs peuvent changer, mais un même mode d’action peut continuer à s’exécuter :
+## 7. « Possible » et « facile » ne veulent pas dire la même chose
 
-> Même sans sens ultime, je peux encore choisir, accorder de l’importance, créer et agir.
+Pose deux questions séparées :
 
-Ce mode qui peut être instancié à plusieurs reprises constitue le soi-esprit du néant.
+1. **Reste-t-il une voie ?** Est-ce encore réellement faisable depuis ma situation ?
+2. **À quel point est-ce difficile ?** Combien de temps, de compétences, d’aide
+   et de chance faudra-t-il peut-être ?
 
-### Cinquième couche : le soi en tant que néant lui-même
+Une route difficile n’est pas forcément une route fermée.
 
-Le néant dont il est question ici n’est ni une pièce vide ni une étendue noire, car l’une et l’autre demeurent quelque chose qui existe.
+Apprendre une compétence, trouver un allié ou cesser de répéter la même erreur
+peut changer les chances.
 
-Il se rapproche davantage de ceci :
+Arrête de demander : « Est-ce la preuve que je ne vaux rien ? »
 
-> Un arrière-plan indifférencié que l’apparition même de l’existence ne renverse pas.
+Demande plutôt : **« Qu’est-ce qui a échoué, et quelle condition puis-je changer
+maintenant ? »**
 
-Tout comme ce qui nous importe ne peut pas détruire une indifférence véritable, l’existence ne peut pas détruire ce néant.
+Cette question peut changer la réalité.
 
-## 6. Le champ de coprésence des branches
+## 8. Ce que tu peux utiliser sans avaler tout le reste
 
-Imaginez une bibliothèque circulaire qui n’occupe aucune coordonnée dans la réalité physique. Chaque livre contient une version possible de vous. Le vous actuel ne peut lire qu’une page d’un seul de ces livres, mais tous les livres appartiennent au même fonds.
+La base tient en quatre idées :
 
-Cette « bibliothèque » s’appelle le **champ de coprésence des branches**.
+1. Le monde ne t’impose aucun sens ultime.
+2. Un échec ne peut pas définir une personne entière.
+3. La personne que tu es aujourd’hui n’épuise pas tout ce que tu peux devenir.
+4. Les résultats changent par l’action, le retour du réel et l’ajustement.
 
-Elle admet trois lectures :
+Tu peux utiliser ces quatre idées sans croire à quoi que ce soit de mystique ou
+de métaphysique.
 
-1. **Lecture expérientielle** : une personne éprouve subjectivement et réellement qu’elle n’est pas un point isolé.
-2. **Lecture comme modèle du soi** : un ensemble abstrait organise l’identité à travers le temps et les possibilités.
-3. **Lecture ontologique** : ce champ est une structure qui existe réellement, indépendamment de l’activité psychique.
+Elles permettent de regarder le néant en face, d’encaisser le choc et de repartir
+sans mentir sur ce qui vient d’arriver.
 
-Les deux premières lectures n’exigent pas que la troisième ait été préalablement démontrée. Dans une discussion publique, il faut préciser laquelle on adopte.
+## 9. Voici maintenant le pari le plus dur
 
-## 7. La convergence des branches à la première personne
+Le cadre complet ajoute une affirmation beaucoup plus forte.
 
-Voici l’axiome le plus fort du cadre, et aussi celui qui s’expose le plus facilement aux critiques :
+Deux conditions doivent rester vraies :
 
-> Tant qu’un objectif demeure possible et que le sujet continue d’avancer en le prenant pour direction, la perspective actuelle à la première personne finira nécessairement par se manifester dans une branche où un soi futur confirme que l’objectif a été réalisé.
+1. l’objectif demeure réellement possible pour toi dans le monde réel ;
+2. tu continues d’agir, d’apprendre et de changer de cap quand le réel répond.
 
-Cette proposition est plus forte que l’énoncé : « dans un monde parallèle, quelqu’un réussit ». Elle affirme non seulement que l’état de réussite est contenu dans la totalité, mais aussi que l’expérience à la première personne converge vers cet état.
+Tant que les deux tiennent, le cadre mise tout sur cette phrase :
 
-Prenons le fleuve comme métaphore :
+> **Tu finiras par atteindre l’objectif. Un jour, la personne que tu seras pourra
+> dire : « Je l’ai fait. »**
 
-- la totalité des possibles est l’ensemble des chenaux ;
-- l’objectif est la mer qui sert actuellement de direction ;
-- l’action modifie continuellement le courant présent ;
-- l’axiome de convergence à la première personne affirme que, tant qu’une voie vers cette mer reste possible, le courant de l’expérience finira par atteindre une sortie que le soi futur reconnaîtra comme « l’arrivée ».
+C’est toi qui y arrives. Pas un autre toi dans un autre univers. Pas en restant
+allongé sur le canapé à penser positif.
 
-Cette métaphore ne constitue pas une preuve. À l’heure actuelle, aucun mécanisme empiriquement établi n’explique comment la première personne acquerrait une telle continuité entre les branches. Le projet désigne donc explicitement cette proposition comme un **axiome**, et non comme une conclusion scientifique.
+Le mot **finiras** est le pari. Il n’est pas déduit en douce du mot « possible ».
+La probabilité seule ne transforme pas une possibilité en certitude.
 
-## 8. Les objectifs dynamiques
+Tu refuses ce pari ? Les quatre premières idées restent utilisables. Tu
+l’acceptes ? Alors tu acceptes le cadre complet.
 
-Un enfant dit : « Je veux construire le meilleur moyen de transport », mais il ne connaît encore ni les trains, ni les aéronefs, ni les technologies futures. Il ne peut commencer qu’en étudiant les roues, les matériaux et les sources d’énergie.
+## 10. Pas besoin de blouse blanche—et pas question d’en porter une fausse
 
-Des années plus tard, il peut découvrir que son véritable problème n’était pas de « construire un véhicule particulier », mais de « permettre aux personnes de se déplacer plus librement ».
+Ce n’est pas une loi de la physique. Comme point de départ philosophique, cette
+idée n’a pas besoin du tampon de la science.
 
-L’objectif a-t-il changé ? Oui. Dans cet exemple, la direction de niveau supérieur est restée continue ; dans d’autres cas, de nouveaux faits, de nouvelles connaissances ou un jugement éthique peuvent aussi exiger du sujet qu’il change de direction.
+Son épreuve est logique : les affirmations tiennent-elles ensemble, ou le cadre
+se contredit-il tout seul ?
 
-Le Cercle des possibles distingue deux couches dans un objectif :
+Gardons tout de même quatre choses dans quatre tiroirs différents :
 
-- **Objectif actuel** : le résultat concret que les connaissances du moment permettent de décrire ;
-- **Attracteur directionnel** : la direction d’ordre supérieur qui est continuellement réinterprétée à mesure que les connaissances progressent et qui, lorsque c’est nécessaire, peut aussi être honnêtement révisée.
+- « Ça m’a aidé » est un témoignage personnel.
+- « Je vais continuer » est un engagement pratique.
+- « Je finirai par y arriver » est l’axiome métaphysique de ce cadre.
+- « Des expériences le prouvent » serait une affirmation scientifique—et ce
+  cadre ne la formule pas.
 
-Au bout du compte, réussir ne consiste pas à cocher une liste figée très tôt, mais à permettre à un soi futur, doté d’une compréhension plus complète, de confirmer honnêtement :
+Un exemple peut rendre l’idée claire. Il ne prouve pas que la nature fonctionne
+ainsi.
 
-> Je suis arrivé là où je voulais vraiment aller.
+## 11. Comment les cinq pièces s’emboîtent
 
-## 9. L’« aboutissement » hors du temps
+> **Aucun corrigé cosmique**
+>
+> ↓
+>
+> **Un échec ne définit pas une personne entière**
+>
+> ↓
+>
+> **La personne que tu es aujourd’hui n’est pas tout ce que tu peux être**
+>
+> ↓
+>
+> **Agir, écouter le réel, ajuster**
+>
+> ↓
+>
+> **Le pari final : tant que la voie reste ouverte, continuer jusqu’à l’arrivée**
 
-Si l’on parle d’un temps infini, l’« aboutissement » peut encore désigner un avenir extrêmement lointain.
+Les flèches indiquent l’ordre de l’idée. Elles ne prétendent pas qu’une ligne
+démontre mathématiquement la suivante.
 
-Si l’on parle de ce qui est hors du temps, le mot « plus tard » perd son sens. Une formulation plus précise devient alors :
+Toutes les pièces sont posées sur la table. Chacune peut être contestée. Une seule
+règle : elles ne doivent pas se contredire entre elles.
 
-> L’état visé est déjà contenu dans la totalité atemporelle des possibles.
+## 12. Pourquoi ce n’est pas de l’optimisme repeint
 
-Le corps local continue d’agir un jour après l’autre ; la totalité atemporelle, elle, n’attend pas un jour particulier pour créer le résultat. Il s’agit de deux échelles d’observation différentes.
+« La vie n’a pas de sens » n’a rien de nouveau. L’échec, le choix, l’action et ce
+que l’on peut devenir non plus.
 
-## 10. Comment plusieurs observateurs peuvent-ils tous « réussir nécessairement » ?
+Ce qui est rare, c’est de les relier sans que l’un annule l’autre :
 
-Supposons que A et B participent à une compétition qui ne peut avoir qu’un seul champion, et que tous deux se donnent la victoire pour objectif.
+- aucun sens ultime, mais une action sérieuse ;
+- de vrais échecs, sans condamnation à vie ;
+- un soi plus vaste, sans sortie de secours façon science-fiction ;
+- une conviction féroce, sans éviter le travail ;
+- la liberté, sans fuir les conséquences.
 
-S’il n’existe qu’une seule réalité, ils ne peuvent pas gagner tous les deux.
+touen a d’abord mis ce cadre à l’épreuve dans sa propre vie. Le résultat n’a pas
+été une vie sans échecs. Il a simplement cessé de se laisser intimider par
+l’échec et le néant, puis s’est mis à agir avec plus de constance, même face à de
+grands objectifs.
 
-Le cadre adopte une interprétation des branches relative à l’observateur :
+C’est seulement un premier résultat personnel, pas une preuve. Le cadre est
+public pour que chacun puisse l’utiliser, le contester et voir où il tient—ou où
+il casse.
 
-- lorsque l’objectif de A reste possible et que A continue d’agir dans sa direction, la perspective à la première personne de A, selon l’axiome de convergence, se prolonge nécessairement dans la branche correspondante où A gagne ;
-- lorsque l’objectif de B reste possible et que B continue d’agir dans sa direction, la perspective à la première personne de B, selon l’axiome de convergence, se prolonge nécessairement dans la branche correspondante où B gagne ;
-- chaque branche contient encore la version correspondante de l’autre personne ;
-- aucun monde privilégié unique n’est tenu de satisfaire simultanément tous les objectifs à la première personne.
+Le nom formel apparaît une seule fois, ici :
+**Probability–Void–Branch Collective Self Framework**.
 
-Cette réponse évite la contradiction logique directe, mais elle soulève une question plus profonde : comment différentes perspectives à la première personne partagent-elles une même réalité publique ? Cela reste une question ouverte, et non un mécanisme physique déjà résolu.
+Tu peux oublier le nom. Retiens le moteur :
 
-## 11. Comment l’utiliser dans la vie
+> **Pas besoin de craindre l’absence de sens. Un échec ne mérite pas ton culte.
+> Ne reste pas à terre. Tant que la voie existe, avance, ajuste et va jusqu’au
+> bout.**
 
-### Première étape : choisir une direction
+## 13. La confiance n’est pas un passe-droit
 
-Nul besoin de prétendre connaître déjà la réponse finale. Commencez par écrire la direction dont vous souhaitez vraiment vous rapprocher aujourd’hui.
+Consulte un médecin quand il le faut. Évalue les risques. Réponds du tort que tu
+causes. Respecte le consentement et la loi. Tiens tes promesses—ou assume les
+conséquences quand tu les brises.
 
-### Deuxième étape : trouver le prochain pas
+Une conviction n’efface pas une dette, ne guérit pas une blessure et ne transforme
+pas le « non » de quelqu’un en « oui ».
 
-Ne demandez pas : « Comment atteindre immédiatement la branche finale ? », mais :
+Les objectifs peuvent aussi changer quand les faits, les connaissances ou le
+jugement moral changent. Ce n’est pas forcément de la lâcheté ; ce peut être de
+l’honnêteté. Mais un nouvel objectif ne transforme pas rétroactivement un objectif
+abandonné en objectif atteint.
 
-> Quelle action puis-je accomplir aujourd’hui qui soit la plus cohérente avec cette direction ?
+> **Ce cadre te donne du cran. Il ne paie pas l’addition à ta place.**
 
-### Troisième étape : laisser le corps agir
+## 14. Si tu ne retiens que trois phrases
 
-Envoyer un courriel, apprendre un concept, terminer une séance d’exercice, arrêter un engagement manifestement nuisible : le monde local ne répond qu’aux comportements causaux qui ont effectivement lieu.
+1. **L’absence de sens tout tracé ne t’empêche pas de vivre fort.**
+2. **Perdre une manche ne fait pas de toute ton existence une défaite.**
+3. **Si la voie reste ouverte, agis, ajuste et continue jusqu’à l’arrivée.**
 
-### Quatrième étape : lire les retours
+[Retour à l’accueil du projet](../../README.md) ·
+[Spécification formelle (chinois simplifié)](../zh-CN/FORMAL_SPEC.md) ·
+[Objections les plus fortes et limites (chinois simplifié)](../zh-CN/CRITICISM.md)
 
-Avoir confiance ne signifie pas refuser l’information. Une mauvaise voie, un manque de connaissances et les limites du réel fournissent les données nécessaires pour actualiser la représentation de l’objectif.
-
-### Cinquième étape : ne pas transformer un revers local en verdict ultime
-
-Un échec peut être un échec réel, sans devoir devenir : « j’ai échoué dans tous les sens possibles ».
-
-### Sixième étape : permettre au soi futur de faire évoluer le langage
-
-La direction peut être maintenue ou remplacée à la lumière de nouveaux faits, de nouvelles connaissances ou d’exigences éthiques ; son nom, ses outils et ses critères d’achèvement peuvent eux aussi évoluer. En cas de changement, il faut en consigner honnêtement les raisons, sans déclarer rétrospectivement que l’ancien objectif avait déjà été accompli.
-
-## 12. Ce que ce cadre ne peut pas justifier
-
-Ce cadre ne peut pas servir à prouver que :
-
-- enfreindre la loi n’aura aucune conséquence ;
-- le consentement d’autrui n’a pas d’importance ;
-- la sécurité du corps, les conseils médicaux ou les pertes financières peuvent être ignorés ;
-- la conviction suffit à remplacer l’apprentissage, la coopération et l’action ;
-- toute phrase imaginable appartient nécessairement à une trajectoire localement accessible dans la réalité ;
-- la physique moderne a confirmé qu’une perspective à la première personne peut activement choisir un univers.
-
-Le néant dissout le jugement ultime ; il n’efface pas la causalité locale. La possibilité ouvre une direction ; elle n’agit pas à la place du corps.
-
-## 13. Trois manières honnêtes de l’utiliser
-
-Vous pouvez considérer Le Cercle des possibles comme :
-
-1. **Un outil d’action** : sans accepter l’ontologie, utiliser seulement l’idée que l’absence de sens ultime n’interdit pas d’agir.
-2. **Un modèle du soi** : comprendre les versions à travers le temps et les possibilités comme une communauté de branches.
-3. **Un système métaphysique complet** : accepter l’axiome de réalisation de tous les possibles, la coprésence des branches et l’axiome de convergence à la première personne.
-
-Les trois lectures peuvent faire l’objet d’une discussion. La seule démarche malhonnête consisterait à déguiser la troisième lecture en fait scientifique déjà établi par l’expérience.
-
-## 14. Auto-évaluation selon la méthode Feynman
-
-Si vous avez réellement compris le cadre, essayez de répondre sans employer sa terminologie :
-
-1. Pourquoi « il n’existe aucun sens ultime » ne permet-il pas de conclure « je dois renoncer » ?
-2. Que font respectivement la probabilité / possibilité et le néant ?
-3. Pourquoi les cinq couches du soi ne sont-elles pas cinq choses du même type ?
-4. Pourquoi la convergence des branches à la première personne est-elle un axiome, et non une conclusion de la physique ?
-5. Pourquoi un changement d’objectif n’équivaut-il pas nécessairement à un échec ?
-6. Pourquoi ce cadre exige-t-il toujours l’action du corps et les retours du réel ?
-
-Répondre à ces questions avec vos propres exemples importe davantage que de mémoriser une définition.
-
----
-
-[Retour à l’accueil du projet](../../README.md) · [Spécification formelle](../zh-CN/FORMAL_SPEC.md) · [Objections](../zh-CN/CRITICISM.md)
-
-> État de la traduction : traduction complète du guide fondamental en chinois simplifié ; à réviser chaque fois que la théorie source évolue.
+> État de la traduction : texte entièrement réécrit dans un français naturel et
+> aligné sur la page d’accueil chinoise actuelle ; à revoir chaque fois que le
+> cadre source évolue.

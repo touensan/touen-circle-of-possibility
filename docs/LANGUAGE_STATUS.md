@@ -2,18 +2,18 @@
 
 The default and canonical public language is Simplified Chinese (`zh-CN`).
 
-| Locale | Language | Core guide |
+| Locale | Language | Public entry |
 | --- | --- | --- |
 | `zh-CN` | 简体中文 | Canonical |
-| `zh-TW` | 繁體中文 | Complete draft; native review invited |
-| `en` | English | Complete draft; native review invited |
-| `ko` | 한국어 | Complete draft; native review invited |
-| `ja` | 日本語 | Complete draft; native review invited |
-| `fr` | Français | Complete draft; native review invited |
-| `it` | Italiano | Complete draft; native review invited |
-| `de` | Deutsch | Complete draft; native review invited |
-| `ru` | Русский | Complete draft; native review invited |
-| `vi` | Tiếng Việt | Complete draft; native review invited |
+| `zh-TW` | 繁體中文 | Localized; native review invited |
+| `en` | English | Localized; native review invited |
+| `ko` | 한국어 | Localized; native review invited |
+| `ja` | 日本語 | Localized; native review invited |
+| `fr` | Français | Localized; native review invited |
+| `it` | Italiano | Localized; native review invited |
+| `de` | Deutsch | Localized; native review invited |
+| `ru` | Русский | Localized; native review invited |
+| `vi` | Tiếng Việt | Localized; native review invited |
 
 Translations must preserve the distinction between:
 

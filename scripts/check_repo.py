@@ -138,10 +138,10 @@ def main() -> int:
 
     citation = (ROOT / "CITATION.cff").read_text(encoding="utf-8")
     changelog = (ROOT / "CHANGELOG.md").read_text(encoding="utf-8")
-    if 'version: "0.1.0"' not in citation:
-        errors.append("CITATION.cff version must match release 0.1.0")
-    if "## [0.1.0] - 2026-07-31" not in changelog:
-        errors.append("CHANGELOG.md must contain release 0.1.0")
+    if 'version: "0.2.0"' not in citation:
+        errors.append("CITATION.cff version must match release 0.2.0")
+    if "## [0.2.0] - 2026-07-31" not in changelog:
+        errors.append("CHANGELOG.md must contain release 0.2.0")
 
     if errors:
         print("Repository validation failed:")

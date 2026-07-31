@@ -10,8 +10,11 @@
 
 ## [未发布]
 
+## [0.2.0] - 2026-07-31
+
 ### 改进
 
+- 将繁体中文、英语、韩语、日语、法语、意大利语、德语、俄语和越南语入口同步改写为各自语言中自然、直接、有传播力的版本。
 - 以短视频式节奏和带劲口语重写首页，用“认账但不认命”“失败别装法官”“这套东西给你底气不给你免单”等表达降低阅读门槛。
 - 将大众入口与形式化术语分层：首页和宣言改用“人生出路、完整的我、最终抵达”等自然中文，精确名称仅在深入文档中保留。
 - 将“是否科学验证”的反复说明收束为一次定位：本项目是一套以公开前提和内部自洽为判断标准的哲学体系。
@@ -53,5 +56,6 @@
 - 完成九种译文的目标语言母语审阅。
 - 启用私密漏洞与隐私报告渠道。
 
-[未发布]: https://github.com/touensan/touen-circle-of-possibility/compare/v0.1.0...HEAD
+[未发布]: https://github.com/touensan/touen-circle-of-possibility/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/touensan/touen-circle-of-possibility/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/touensan/touen-circle-of-possibility/releases/tag/v0.1.0
