@@ -276,6 +276,5 @@ Ziel macht ein aufgegebenes Ziel aber nicht rückwirkend zu einem erreichten.
 [Formale Spezifikation (vereinfachtes Chinesisch)](../zh-CN/FORMAL_SPEC.md) ·
 [Stärkste Einwände und Grenzen (vereinfachtes Chinesisch)](../zh-CN/CRITICISM.md)
 
-> Übersetzungsstatus: vollständig in natürliches Deutsch neu geschrieben und an
-> die aktuelle chinesische Startseite angeglichen; bei Änderungen am
-> Ausgangsrahmen erneut prüfen.
+> Übersetzungsstatus: verfügbar, aber noch nicht mit der neuen Informationsstruktur
+> und Terminologie der vereinfachten chinesischen Fassung synchronisiert.

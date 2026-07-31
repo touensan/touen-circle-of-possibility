@@ -236,4 +236,4 @@ Dự án này mở: bạn có thể dùng, phản biện, sửa hoặc từ ch�
 
 [Trở về trang chính](../../README.md) · [Định nghĩa hình thức (tiếng Trung)](../zh-CN/FORMAL_SPEC.md) · [Phản biện và giới hạn (tiếng Trung)](../zh-CN/CRITICISM.md)
 
-**Tình trạng bản dịch:** bản tiếng Việt đầy đủ cho trang nhập môn, được viết lại theo lối tự nhiên và trực diện. Các tài liệu kỹ thuật liên kết hiện vẫn chỉ có bằng tiếng Trung giản thể.
+**Tình trạng bản dịch:** bản dịch hiện có thể sử dụng, nhưng chưa được đồng bộ với cấu trúc thông tin và hệ thuật ngữ mới của bản tiếng Trung giản thể.

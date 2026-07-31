@@ -46,6 +46,8 @@ REQUIRED_FILES = (
     "LICENSE",
     "SECURITY.md",
     "assets/possibility-hero.webp",
+    "docs/zh-CN/TECHNICAL.md",
+    "docs/zh-CN/PRACTICE.md",
 )
 MARKDOWN_LINK = re.compile(r"!?\[[^\]]*]\(([^)]+)\)")
 NUMBERED_H2 = re.compile(r"^##\s+(\d+)\.", re.MULTILINE)
@@ -122,9 +124,11 @@ def main() -> int:
             continue
         text = guide.read_text(encoding="utf-8")
         sections = [int(item) for item in NUMBERED_H2.findall(text)]
-        if sections != list(range(1, 15)):
+        expected_sections = list(range(0, 9)) if locale == "zh-CN" else list(range(1, 15))
+        if sections != expected_sections:
             errors.append(
-                f"locale sections must be exactly 1..14: docs/{locale}/README.md"
+                "locale sections do not match the expected structure: "
+                f"docs/{locale}/README.md (expected {expected_sections})"
             )
         expected_name = "多恩" if locale in {"zh-CN", "zh-TW"} else "touen"
         first_line = text.splitlines()[0] if text else ""

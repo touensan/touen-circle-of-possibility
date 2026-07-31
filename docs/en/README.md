@@ -261,5 +261,5 @@ one as completed.
 [Formal specification (Simplified Chinese)](../zh-CN/FORMAL_SPEC.md) ·
 [Strongest objections and limits (Simplified Chinese)](../zh-CN/CRITICISM.md)
 
-> Translation status: Fully rewritten in natural English to match the current
-> Simplified Chinese homepage; review again whenever the source framework changes.
+> Translation status: Available, but not yet synchronized with the current
+> Simplified Chinese information architecture and terminology revision.

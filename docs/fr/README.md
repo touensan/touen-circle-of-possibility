@@ -275,6 +275,5 @@ abandonné en objectif atteint.
 [Spécification formelle (chinois simplifié)](../zh-CN/FORMAL_SPEC.md) ·
 [Objections les plus fortes et limites (chinois simplifié)](../zh-CN/CRITICISM.md)
 
-> État de la traduction : texte entièrement réécrit dans un français naturel et
-> aligné sur la page d’accueil chinoise actuelle ; à revoir chaque fois que le
-> cadre source évolue.
+> État de la traduction : texte disponible, mais pas encore synchronisé avec la
+> nouvelle architecture de l’information et la terminologie du chinois simplifié.

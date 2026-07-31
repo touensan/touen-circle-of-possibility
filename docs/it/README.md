@@ -236,4 +236,4 @@ Il progetto è aperto: puoi usarlo, criticarlo, modificarlo o rifiutarlo. Prima 
 
 [Torna alla pagina principale](../../README.md) · [Definizioni formali (cinese)](../zh-CN/FORMAL_SPEC.md) · [Critiche e limiti (cinese)](../zh-CN/CRITICISM.md)
 
-**Stato della traduzione:** versione italiana completa dell’ingresso divulgativo, riscritta per suonare naturale in italiano. I documenti tecnici collegati restano per ora disponibili in cinese semplificato.
+**Stato della traduzione:** testo disponibile, ma non ancora sincronizzato con la nuova architettura informativa e terminologica della versione in cinese semplificato.
