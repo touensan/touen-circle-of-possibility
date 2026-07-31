@@ -8,7 +8,7 @@ abstract: >-
 authors:
   - family-names: "多恩"
     alias: "touen"
-version: "0.1.0"
+version: "0.2.0"
 date-released: "2026-07-31"
 repository-code: "https://github.com/touensan/touen-circle-of-possibility"
 keywords:
@@ -26,4 +26,4 @@ preferred-citation:
       alias: "touen"
   title: "多恩可能性之圆：概率—虚无—分支集体自我框架"
   year: 2026
-  version: "0.1.0"
+  version: "0.2.0"

@@ -13,7 +13,7 @@ body:
     attributes:
       label: 位置
       description: 文件路径、章节标题或公开链接。
-      placeholder: "例如：README.md 的“五分钟导读”"
+      placeholder: "例如：README.md 的“最终抵达”一节"
     validations:
       required: true
   - type: dropdown
@@ -23,7 +23,7 @@ body:
       options:
         - 难以理解或无法复述
         - 概念或层次含混
-        - 虚构案例可能误导
+        - 例证或比喻可能误导
         - 科学或事实表述需要核查
         - 错字、语法或格式
         - 无障碍或导航

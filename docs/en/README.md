@@ -1,256 +1,265 @@
-# The touen Circle of Possibility: A Complete Feynman-Style Guide
+# The touen Circle of Possibility
 
-> No Ultimate Meaning Required.
+> **No built-in meaning? Fine. You can still build one hell of a life.**
 
-Author: touen
+## 1. Let’s cut through the fog
 
-> All people and teaching scenarios in this guide are fictional. They are used only to explain concepts and are not evidence that the framework is correct.
+You fail an exam. A job says no. A business loses money. A relationship ends.
 
-## 1. What Problem Is This Framework Trying to Solve?
+That is failure. It hurts. The loss is real, and the bill is still yours.
 
-It begins with an uncomfortable question:
+But then comes the cheap verdict:
 
-> If the world has no predetermined ultimate meaning, why should I do anything at all?
+> “I lost this round, so I must be a loser.”
 
-A common answer is, “Create your own meaning.” The Circle of Possibility takes a different route. It explicitly adopts “the world has no predetermined ultimate meaning” as its philosophical starting axiom instead of inventing a new meaning to cover the void. This is an axiom of the framework, not an experimentally established conclusion of natural science.
+Says who?
 
-It points out just one easily overlooked fact:
+Losing once proves one thing: you lost once. It does not prove your entire life
+is broken.
 
-> “There is no ultimate meaning” and “I cannot act” are not the same statement.
+> **Own the consequences. Reject the life sentence.**
 
-Water has no ultimate meaning bestowed on it by the universe, yet it still flows. Celestial bodies have no life goals, yet they still move. Human creativity, travel, research, rest, care, and joy do not need the universe’s permission either.
+This framework starts by tearing up the imaginary sentence that says you are
+finished for good.
 
-## 2. How Indifference Can Still Contain Caring
+## 2. What is this actually good for?
 
-Imagine a box labeled “all colors.”
+- Life may have no ultimate meaning, and that no longer scares you.
+- You face a bad result without throwing yourself away with it.
+- A distant goal turns into the next move, not another night of overthinking.
+- If a road is still open, you stop blocking it yourself.
 
-If the box truly contains every color, it cannot exclude red. In the same way, if “nothing ultimately matters” genuinely encompasses everything, it cannot exclude the statement “this matters to me right now.”
+This is not “everything happens for a reason.”
 
-Therefore:
+It is tougher than that:
 
-> Caring enters indifference, and indifference remains indifferent.
+> **Even if life means nothing in the end, you can still love hard, live fully,
+> and get real things done.**
 
-This does not mean that caring secretly possesses ultimate meaning. It means:
+## 3. The universe has no answer sheet. So what?
 
-> Caring requires no ultimate meaning, and it does not contradict the void.
+Maybe the universe never wrote down why you should live.
 
-The void first performs an act of **lifting a prohibition**. It does not tell you what you must pursue. It removes the mistaken restriction that says, “There is no meaning, so action is forbidden.”
+So what?
 
-## 3. The Circle of Possibility
+Does that stop you from loving someone, making money, creating something or
+fixing your life? Of course not.
 
-Now imagine a map containing every fork in the road.
+No preset answer means nobody chose for you. It does not mean you cannot choose.
 
-From this moment onward, the future can unfold in different ways. Some paths are common, some vanishingly unlikely, and some may exceed what we currently understand. We call the totality of all possible paths:
+That is all “the void” needs to mean here: there is no cosmic answer sheet and
+no universal scorekeeper.
 
-> **The Circle of Possibility.**
+One bad day does not let the universe stamp **FAILED AS A HUMAN BEING** across
+your whole life.
 
-The “circle” expresses completeness, the absence of a privileged center, and the absence of an ultimate boundary. It is not a claim that the world is literally a geometric circle.
+Human consequences still count. Hurt someone, break a promise or break the law,
+and the earthly bill remains real.
 
-The Circle of Possibility adopts a strong metaphysical axiom called the **Axiom of Full Realization of Possibility**:
+## 4. Failure does not get to play judge
 
-> If a state is genuinely possible, it is actually realized in some branch or in an atemporal mode of existence.
+A failed exam says the score was too low this time.
 
-Here, “possible” is not restricted to technological routes known today. The framework permits us to conceive of infinite time, unknown disturbances, different physical structures, and even atemporal forms of existence.
+A rejection says you were not chosen this time.
 
-This qualification is essential: the statement is a philosophical axiom. It does not follow from the mathematical word *probability* alone, nor has quantum mechanics already proved it.
+A failed project says this approach did not work.
 
-## 4. Probability and the Void: One Unfolds, One Contains
+Which one proves that your whole future is dead?
 
-Use a deck of cards as a simple model.
+None of them.
 
-- The rules of shuffling allow the cards to appear in different orders. This resembles **probability / possibility** unfolding differences.
-- The tabletop rejects none of those orders. This resembles **the void** containing differences.
+> **Failure is an event, not your identity.**
 
-Neither principle ranks above the other; neither is “higher”:
+It may tell you that your skill is weak, your method is wrong or this particular
+road is closed. Good. Look straight at it. Learn, change the method, take another
+road or revise the goal.
 
-| Principle | Plain-language role |
-| --- | --- |
-| Probability / possibility | Unfolds “it could be this way, or it could be that way” |
-| The void | Prevents any unfolding from gaining ultimate privilege or overturning the whole |
+One road ending is not the same as you ending.
 
-Probability preserves distinctions; the void absorbs ultimate distinctions.
+## 5. Today’s you is not all of you
 
-## 5. The Five Layers of Self
+The child you were was you. Today is you. The person you may become in ten years
+is also you.
 
-Think of a person as an open-ended story currently running.
+You would not grab your worst photograph and call it the whole album.
 
-### Layer One: The Bodily Self
+So do not grab your worst day and call it your whole life.
 
-The body is where the story actually enters local reality. It becomes tired, gets hurt, moves, makes things, and bears legal and causal consequences.
+You already act for future versions of yourself. You study for next year’s you,
+save for your older self and take medicine so you can recover.
 
-Without bodily action, “choosing a future” remains only a sentence in the mind.
+This framework goes one step further: the whole of you includes not only the years
+already lived, but the real future versions you can still become.
 
-### Layer Two: The Phenomenal Self
+No parallel-universe substitute is coming to do the work for you. The point is
+much simpler:
 
-The phenomenal self is the first-person perspective that sees the world now, retains part of its memory, and says, “This is me.”
+> **Today’s you is a screenshot, not the whole film.**
 
-“Phenomenal” does not mean “false.” It means that what we directly experience at any moment is a local interface, not the totality of possibility.
+## 6. Want a comeback? Move
 
-### Layer Three: The Branch-Collective Self
+Belief cannot make the call, learn the skill or carry the consequence for you.
 
-Bring together the subject’s versions across the past, present, future, and every possible branch: this forms the branch-collective self.
+If you want a different result, you have to move in the real world.
 
-This collective is not a voting body. It is an extension of identity:
+> **Choose a direction → start → read the result → adjust → go again.**
 
-> The current self is no longer understood as the only isolated point, but as a local manifestation within a community of all possible versions.
+No grand ritual. No waiting to feel invincible first.
 
-### Layer Four: The Void-Spirit Self
+Take one real step. Let reality answer. Use the answer to make the next step
+smarter.
 
-Bodies, memories, and goals may all change, but one pattern can continue to run:
+## 7. “Possible” and “easy” are not the same thing
 
-> Even without ultimate meaning, I can still choose, care, create, and act.
+Ask two separate questions:
 
-This repeatedly instantiable pattern is the void-spirit self.
+1. **Is there still a road?** Can this genuinely be done from where I am?
+2. **How hard is the road?** What time, skill, help and luck might it take?
 
-### Layer Five: The Self as the Void Itself
+A hard road is not automatically a closed road.
 
-The void here is not an empty room or a region of black space, because both are still something that exists.
+Learn one skill, find one ally or stop repeating one mistake, and the odds can
+change.
 
-It is closer to:
+Stop asking, “Does this prove I am useless?”
 
-> An undifferentiated background that is not overturned even when existence appears.
+Ask, **“What failed, and which condition can I change next?”**
 
-Just as caring cannot destroy genuine indifference, existence cannot destroy this void.
+That question can move reality.
 
-## 6. The Branch Co-Presence Field
+## 8. The part you can use without buying the whole package
 
-Imagine a circular library that occupies no coordinates in physical reality. Each book is one possible version of you. The present you can read only one page in one of those books, yet every book belongs to the same collection.
+The basic framework makes four claims:
 
-This “library” is called the **branch co-presence field**.
+1. The world offers no required ultimate meaning.
+2. One failure cannot define a whole person.
+3. The person you are today is not the full range of who you can become.
+4. Results change through action, feedback and adjustment.
 
-It can be read in three ways:
+You can use all four without accepting anything mystical or metaphysical.
 
-1. **Experiential reading:** A person subjectively and genuinely feels that they are not an isolated point.
-2. **Self-model reading:** An abstract set organizes identity across time and possibility.
-3. **Ontological reading:** The field is a structure that exists independently of mental activity.
+They give you a way to face the void, take the hit and keep moving without lying
+about what happened.
 
-The first two readings do not require the third to be proved in advance. In public discussion, we must state which reading we are using.
+## 9. Now for the hardest bet
 
-## 7. First-Person Branch Convergence
+The complete framework adds one much stronger claim.
 
-This is the framework’s strongest and most contestable axiom:
+Two conditions must keep holding:
 
-> As long as a goal remains possible and the subject keeps moving toward it, the current first-person perspective will ultimately manifest in a branch where a future self confirms that the goal has been realized.
+1. the goal remains genuinely possible for you in reality;
+2. you keep acting, learning and changing course when reality answers.
 
-This is stronger than saying, “Someone succeeds in some parallel world.” It claims not only that the successful state is contained within the totality, but also that first-person experience converges toward that state.
+If they do, the framework places its bet:
 
-Consider a river as a metaphor:
+> **You will eventually reach the goal. One day, a future you will be able to
+> say: “I did it.”**
 
-- The totality of possibility is the complete network of channels.
-- The goal is the sea currently being used as a direction.
-- Action continually changes the present flow.
-- The axiom of first-person branch convergence asserts that, as long as a route to that sea remains possible, the stream of experience will ultimately reach an outlet that one’s future self recognizes as “arrival.”
+You get there. Not another version of you in another universe. Not positive
+thinking while you lie still.
 
-This metaphor is not evidence. No empirically established mechanism currently explains how first-person experience would acquire such continuity across branches. This project therefore labels the claim explicitly as an **axiom**, not a scientific conclusion.
+The word **will** is the bet. It is not secretly derived from the word
+“possible.” Probability alone does not turn possibility into certainty.
 
-## 8. Dynamic Goals
+Reject this bet and the first four ideas still work. Accept it, and you have
+accepted the complete framework.
 
-A child says, “I want to build the best means of transportation,” but does not yet understand trains, aircraft, or future technologies. The child can only begin by learning about wheels, materials, and power.
+## 10. No lab coat required—and no fake lab coat allowed
 
-Years later, the child may discover that the real problem was not “building one particular vehicle,” but “helping people move more freely.”
+This is not a law of physics. It does not need a scientific stamp to function as
+a philosophical starting point.
 
-Did the goal change? Yes. In this example, the higher-level direction remained continuous; in other cases, new facts, knowledge, or ethical judgments may make an honest change of direction necessary.
+Its test is logical: do the claims fit together, or does the framework punch a
+hole in itself?
 
-The Circle of Possibility divides a goal into two layers:
+But keep four things in separate boxes:
 
-- **Current goal:** The concrete outcome that present knowledge can describe.
-- **Directional attractor:** The higher-order direction that is continually reinterpreted as knowledge grows and, when necessary, can itself be honestly updated.
+- “This helped me” is a personal experience report.
+- “I will keep going” is a practical commitment.
+- “I will ultimately arrive” is the framework’s metaphysical axiom.
+- “Experiments prove this” would be a scientific claim—and this framework does
+  not make it.
 
-Success is not ultimately a matter of satisfying a checklist frozen in an earlier stage of life. It means that a future self with fuller understanding can honestly confirm:
+An example can make the idea clear. It cannot serve as evidence that nature works
+this way.
 
-> I have arrived where I truly wanted to go.
+## 11. How the five pieces lock together
 
-## 9. “Ultimately” Beyond Time
+> **No cosmic answer sheet**
+>
+> ↓
+>
+> **Failure cannot define the whole person**
+>
+> ↓
+>
+> **Today is not the whole self**
+>
+> ↓
+>
+> **Act, read reality, adjust**
+>
+> ↓
+>
+> **The final bet: if the road stays open, keep going until you arrive**
 
-When discussing infinite time, “ultimately” can still mean an extremely distant future.
+The arrows show the order of the idea. They do not pretend that each line
+mathematically proves the next.
 
-When discussing what lies outside time, “later” loses its meaning. A more precise statement is:
+The pieces are laid out in public. Challenge any one of them. The only rule is
+that they must not contradict one another.
 
-> The goal state is already contained within the atemporal totality of possibility.
+## 12. Why this is not optimism in a new outfit
 
-The local body still acts one day after another. The atemporal totality does not wait for a particular day before creating the result. These are two different scales of observation.
+“Life has no meaning” is old. So are failure, choice, action and the future self.
 
-## 10. How Can Multiple Observers All Be “Guaranteed to Succeed”?
+What is unusual is wiring them together without using one to cancel another:
 
-Suppose A and B enter a competition that can have only one champion, and each makes winning the goal.
+- no ultimate meaning, yet serious action;
+- real failure, without a life sentence;
+- a larger self, without a sci-fi escape hatch;
+- fierce belief, without skipping the work;
+- freedom, without escaping consequences.
 
-If there is only one reality, they cannot both win.
+touen tried the framework on himself first. The result was not a life without
+failure. It was a life less frightened by failure and the void, with action that
+felt steadier even when the goal was huge.
 
-This framework adopts an observer-relative branch interpretation:
+That is one person’s initial result, not proof. The framework is public so
+others can use it, question it and find out where it holds—or where it breaks.
 
-- When A’s goal remains possible and A continues to act toward it, the convergence axiom states that A’s first-person perspective necessarily continues into a corresponding branch where A wins.
-- When B’s goal remains possible and B continues to act toward it, the convergence axiom states that B’s first-person perspective necessarily continues into a corresponding branch where B wins.
-- Each branch still contains the corresponding version of the other person.
-- There is no single privileged world required to satisfy every first-person goal at once.
+The formal name appears once, right here:
+**Probability–Void–Branch Collective Self Framework**.
 
-This answer avoids a direct logical contradiction, but it creates a deeper question: how do different first-person perspectives share one public reality? That remains an open problem, not a solved physical mechanism.
+Forget the name if you like. Remember the engine:
 
-## 11. How to Use the Framework in Life
+> **Do not fear meaninglessness. Do not let failure define you. Do not stay down.
+> If the road is open, keep working until you make it.**
 
-### Step One: Choose a Direction
+## 13. Confidence is not a free pass
 
-You do not have to pretend that you already know the final answer. First, write down the direction you genuinely want to approach now.
+Get medical help when you need it. Weigh the risks. Own the harm you cause.
+Respect consent. Follow the law. Keep your promises—or own the consequences when
+you break them.
 
-### Step Two: Find the Next Step
+Belief cannot erase a debt, heal a wound or turn someone else’s “no” into a
+“yes.”
 
-Do not ask, “How do I reach the final branch immediately?” Ask:
+Goals may also change when facts, knowledge or ethics change. That is not
+cowardice; it can be honesty. But a new goal does not magically mark an abandoned
+one as completed.
 
-> Which action today is most consistent with that direction?
+> **This framework gives you nerve. It does not pick up your tab.**
 
-### Step Three: Let the Body Act
+## 14. If you remember only three lines
 
-Send an email, learn one concept, complete one practice session, or stop an obviously harmful commitment. A local world responds only to causal actions that actually occur.
+1. **A life with no built-in meaning can still be one hell of a life.**
+2. **Losing one round does not make your whole existence a loss.**
+3. **If the road is still open, act, adjust and keep working until you make it.**
 
-### Step Four: Read the Feedback
+[Back to project home](../../README.md) ·
+[Formal specification (Simplified Chinese)](../zh-CN/FORMAL_SPEC.md) ·
+[Strongest objections and limits (Simplified Chinese)](../zh-CN/CRITICISM.md)
 
-Confidence does not mean refusing information. A mistaken route, insufficient knowledge, and real-world limits are all data needed to update how the goal is represented.
-
-### Step Five: Do Not Turn a Local Setback into an Ultimate Verdict
-
-One failure can be a real failure, but it does not have to become “I have failed in every possible sense.”
-
-### Step Six: Let Your Future Self Update the Language
-
-A direction may remain in place, or new facts, knowledge, or ethical requirements may call for changing it; its name, tools, and criteria for completion can grow as well. If you change direction, record the reasons honestly—you cannot retroactively declare the old goal completed.
-
-## 12. What This Framework Cannot Justify
-
-This framework cannot be used to prove that:
-
-- Breaking the law will have no consequences.
-- Other people’s consent does not matter.
-- Bodily safety, medical advice, or financial losses can be ignored.
-- Conviction by itself can replace learning, cooperation, and action.
-- Any sentence one can imagine necessarily belongs to a locally reachable path in reality.
-- Modern physics has confirmed that a first-person perspective can actively choose a universe.
-
-The void dissolves ultimate judgment; it does not erase local causality. Possibility opens a direction; it does not act on behalf of the body.
-
-## 13. Three Honest Ways to Use It
-
-You can treat The Circle of Possibility as:
-
-1. **A tool for action:** Reject the ontology and use only the insight that a lack of ultimate meaning does not forbid action.
-2. **A model of self:** Understand versions across time and possibility as a branch community.
-3. **A complete metaphysical system:** Accept the Axiom of Full Realization of Possibility, branch co-presence, and the axiom of first-person convergence.
-
-All three readings are open to discussion. The only dishonest move is to present the third reading as an experimentally established scientific fact.
-
-## 14. Feynman Self-Test
-
-If you truly understand the framework, try answering these questions without its terminology:
-
-1. Why does “there is no ultimate meaning” not imply “I must give up”?
-2. What do probability / possibility and the void each do?
-3. Why are the five layers of self not five things of the same type?
-4. Why is first-person branch convergence an axiom rather than a conclusion of physics?
-5. Why does a changing goal not necessarily equal failure?
-6. Why does the framework still require bodily action and real-world feedback?
-
-Answering with examples of your own matters more than memorizing any definition.
-
----
-
-[Back to project home](../../README.md) · [Formal specification (Simplified Chinese)](../zh-CN/FORMAL_SPEC.md) · [Fictional examples (Simplified Chinese)](../zh-CN/EXAMPLES.md) · [Objections (Simplified Chinese)](../zh-CN/CRITICISM.md)
-
-> Translation status: Complete translation of the Simplified Chinese core guide; review again whenever the source theory changes.
+> Translation status: Fully rewritten in natural English to match the current
+> Simplified Chinese homepage; review again whenever the source framework changes.

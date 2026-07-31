@@ -15,6 +15,7 @@ archive/
 *.jpeg
 *.png
 *.webp
+!assets/possibility-hero.webp
 *.mp4
 *.mov
 *.m4a

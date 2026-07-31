@@ -1,256 +1,281 @@
-# „Der touen-Kreis der Möglichkeiten“: Eine vollständige Einführung nach der Feynman-Methode
+# The touen Circle of Possibility
 
-> Kein letztgültiger Sinn nötig, um erfüllt zu leben.
+> **Kein vorgegebener Sinn? Na und. Du kannst trotzdem verdammt gut leben.**
 
-Autor: touen
+## 1. Schluss mit dem Nebel
 
-> Die Personen und Lehrsituationen in diesem Text sind vollständig fiktiv. Sie dienen nur dazu, Begriffe zu erklären, und sind kein Beleg für die Richtigkeit des Rahmens.
+Eine Prüfung nicht bestanden. Eine Absage kassiert. Mit einem Projekt Geld
+verloren. Eine Beziehung ist vorbei.
 
-## 1. Welches Problem will dieser Rahmen lösen?
+Das sind Niederlagen. Sie tun weh. Der Schaden ist echt, und die Rechnung bleibt.
 
-Er beginnt mit einer unbequemen Frage:
+Dann kommt oft noch dieses billige Urteil hinterher:
 
-> Wenn die Welt keinen vorgegebenen letztgültigen Sinn hat, warum sollte ich überhaupt etwas tun?
+> „Wenn ich diesmal verloren habe, bin ich wohl ein Versager.“
 
-Eine häufige Antwort lautet: „Erschaffe deinen eigenen Sinn.“ Der Kreis der Möglichkeiten geht einen anderen Weg. Er setzt ausdrücklich als philosophischen Ausgangspunkt, dass **die Welt keinen vorgegebenen letztgültigen Sinn hat**, anstatt einen neuen Sinn zu erschaffen, der das Nichts verdeckt. Dies ist ein Axiom, das der Rahmen annimmt, und kein experimentelles Ergebnis, zu dem die Naturwissenschaften bereits gelangt wären.
+Wer sagt das?
 
-Er weist lediglich auf einen leicht übersehenen Unterschied hin:
+Einmal verlieren beweist genau eine Sache: Diesmal hat es nicht geklappt. Es
+beweist nicht, dass dein ganzes Leben gescheitert ist.
 
-> „Es gibt keinen letztgültigen Sinn“ und „ich kann nicht handeln“ sind nicht dieselbe Aussage.
+> **Die Rechnung anerkennen. Das Schicksalsurteil ablehnen.**
 
-Wasser hat keinen vom Universum verliehenen letztgültigen Sinn und fließt dennoch; Himmelskörper haben keine Lebensziele und bewegen sich dennoch. Auch menschliches Schaffen, Reisen, Forschen, Ausruhen, Sorgen und Freuen braucht nicht erst die Erlaubnis des Universums.
+Dieser Denkrahmen zerreißt zuerst den eingebildeten Bescheid, nach dem du für
+immer erledigt sein sollst.
 
-## 2. Warum das Gleichgültige weiterhin enthalten kann, was uns wichtig ist
+## 2. Was bringt dir das ganz konkret?
 
-Stell dir eine Schachtel mit der Aufschrift „alle Farben“ vor.
+- Das Leben hat vielleicht keinen letzten Sinn. Der Gedanke macht dich nicht
+  mehr klein.
+- Steh für die Folgen gerade, ohne dich selbst gleich mitzuentsorgen.
+- Aus einem fernen Ziel wird der nächste Schritt statt die nächste Grübelnacht.
+- Solange noch ein Weg offen ist, blockierst du ihn nicht selbst.
 
-Wenn sie wirklich alle Farben enthält, kann sie Rot nicht ausschließen. Genauso kann „nichts ist von Bedeutung“, wenn es tatsächlich alles umfasst, den Satz „diese Sache ist mir jetzt wichtig“ nicht ausschließen.
+Hier heißt es nicht: „Alles passiert aus einem guten Grund.“
 
-Daher:
+Die Aussage ist härter:
 
-> Was uns wichtig ist, tritt in das Gleichgültige ein, und das Gleichgültige bleibt gleichgültig.
+> **Selbst wenn am Ende kein höherer Sinn wartet, kannst du lieben, gestalten und
+> verdammt viel auf die Beine stellen.**
 
-Das bedeutet nicht, dass dem, was uns wichtig ist, insgeheim ein letztgültiger Sinn zukommt. Es bedeutet:
+## 3. Das Universum hat keinen Lösungsbogen. Na und?
 
-> Was uns wichtig ist, braucht keinen letztgültigen Sinn und widerspricht dem Nichts nicht.
+Vielleicht hat das Universum nie aufgeschrieben, wofür du leben sollst.
 
-Das Nichts bewirkt zunächst eine **Aufhebung des Verbots**. Es sagt dir nicht, was du verfolgen musst. Es beseitigt die falsche Einschränkung: „Weil es keinen Sinn gibt, ist Handeln verboten.“
+Na und?
 
-## 3. Der Kreis der Möglichkeiten
+Kannst du deshalb niemanden lieben, kein Geld verdienen, nichts erschaffen und
+dein Leben nicht in Ordnung bringen? Natürlich kannst du das.
 
-Stell dir nun eine Karte vor, die alle Weggabelungen enthält.
+Keine vorgegebene Antwort heißt nur: Niemand hat für dich gewählt. Es heißt
+nicht, dass du nicht wählen darfst.
 
-Von diesem Augenblick an kann sich die Zukunft in verschiedene Richtungen entwickeln. Manche Verläufe sind häufig, manche äußerst unwahrscheinlich, und manche könnten unser gegenwärtiges Verständnis übersteigen. Die Gesamtheit aller möglichen Verläufe nennen wir:
+Mehr muss „das Nichts“ hier nicht bedeuten. Es gibt keinen kosmischen Lösungsbogen
+und keine universelle Punktetabelle.
 
-> **den Kreis der Möglichkeiten.**
+Ein schlechter Tag gibt dem Universum nicht das Recht, dein ganzes Leben mit
+„ALS MENSCH GESCHEITERT“ abzustempeln.
 
-Der „Kreis“ steht für Vollständigkeit, das Fehlen eines privilegierten Zentrums und das Fehlen einer letztgültigen Grenze. Er behauptet nicht, die Welt sei geometrisch tatsächlich ein Kreis.
+Menschliche Folgen zählen trotzdem. Wer jemanden verletzt, ein Versprechen bricht
+oder gegen das Gesetz verstößt, muss die Rechnung weiterhin begleichen.
 
-Der Kreis der Möglichkeiten nimmt ein starkes metaphysisches Axiom an, hier **Axiom der Verwirklichung aller Möglichkeiten** genannt:
+## 4. Eine Niederlage ist kein Richter
 
-> Wenn ein Zustand wirklich möglich ist, ist er in irgendeiner Verzweigung oder in einer zeitlosen Existenzweise tatsächlich verwirklicht.
+Eine nicht bestandene Prüfung sagt: Diesmal waren die Punkte zu niedrig.
 
-„Möglich“ ist hier nicht auf die heute bekannten technischen Wege beschränkt. Der Rahmen erlaubt es, unendliche Zeit, unbekannte Störungen, andere physikalische Strukturen und sogar zeitlose Existenzformen zu denken.
+Eine Absage sagt: Diese Bewerbung war nicht erfolgreich.
 
-Doch dies muss klar benannt werden: Es handelt sich um ein philosophisches Axiom. Die Aussage folgt weder allein aus dem mathematischen Wort *Wahrscheinlichkeit*, noch ist sie von der Quantenmechanik bereits bewiesen worden.
+Ein gescheitertes Projekt sagt: Dieser Ansatz hat nicht funktioniert.
 
-## 4. Wahrscheinlichkeit und das Nichts: Das eine entfaltet, das andere umfasst
+Was davon beweist, dass deine gesamte Zukunft tot ist?
 
-Ein Kartenspiel dient als einfaches Bild.
+Nichts davon.
 
-- Die Regeln des Mischens lassen die Karten in verschiedenen Reihenfolgen erscheinen; das ähnelt der **Wahrscheinlichkeit / Möglichkeit**, die Unterschiede entfaltet.
-- Der Tisch weist keine dieser Reihenfolgen zurück; das ähnelt dem **Nichts**, das Unterschiede umfasst.
+> **Eine Niederlage ist ein Ergebnis, kein Personalausweis.**
 
-Die beiden Prinzipien stehen nicht übereinander, und keines ist „höher“:
+Vielleicht zeigt sie, dass dir Können fehlt, die Methode falsch ist oder genau
+dieser Weg endet. Gut. Schau hin. Lerne, ändere die Methode, nimm einen anderen Weg
+oder passe dein Ziel an.
 
-| Prinzip | Aufgabe in einfachen Worten |
-| --- | --- |
-| Wahrscheinlichkeit / Möglichkeit | Entfaltet, dass „es so sein könnte, aber auch anders“ |
-| Das Nichts | Verhindert, dass eine der Entfaltungen ein letztgültiges Privileg erhält oder das Ganze umstößt |
+Wenn ein Weg endet, endest nicht du.
 
-Die Wahrscheinlichkeit bewahrt Unterschiede; das Nichts nimmt letztgültige Unterschiede in sich auf.
+## 5. Dein heutiges Ich ist nicht dein ganzes Ich
 
-## 5. Die fünf Schichten des Selbst
+Das Kind von damals warst du. Heute bist du es. Der Mensch, der du in zehn Jahren
+werden kannst, gehört ebenfalls zu dir.
 
-Man kann sich einen Menschen als eine offene Geschichte vorstellen, die gerade abläuft.
+Du würdest nicht dein schlimmstes Foto aus dem Album reißen und behaupten, es sei
+das ganze Album.
 
-### Erste Schicht: das körperliche Selbst
+Also mach aus deinem schlimmsten Tag nicht dein ganzes Leben.
 
-Der Körper ist der Ort, an dem die Geschichte tatsächlich in die lokale Wirklichkeit eintritt. Er wird müde, wird verletzt, bewegt sich, stellt Dinge her und trägt rechtliche wie kausale Folgen.
+Wir tun längst Dinge für spätere Versionen unserer selbst. Du lernst für den
+Menschen, der du nächstes Jahr sein wirst, sparst für dein älteres Ich und nimmst
+Medikamente für dein gesünderes Ich.
 
-Ohne körperliches Handeln bleibt „eine Zukunft wählen“ nur ein Satz im Kopf.
+Dieser Denkrahmen geht einen Schritt weiter: Zu dir gehören nicht nur die Jahre,
+die schon hinter dir liegen, sondern auch die Menschen, zu denen du in Zukunft
+tatsächlich werden kannst.
 
-### Zweite Schicht: das phänomenale Selbst
+Kein Doppelgänger in einem Paralleluniversum erledigt deine Arbeit. Gemeint ist
+etwas viel Einfacheres:
 
-Das phänomenale Selbst ist die Erste-Person-Perspektive, die jetzt die Welt sieht, einen Teil der Erinnerungen bewahrt und sagt: „Das bin ich.“
+> **Dein heutiges Ich ist ein Standbild, nicht der ganze Film.**
 
-„Phänomenal“ bedeutet nicht „falsch“. Es besagt lediglich, dass wir in jedem Augenblick unmittelbar nur eine lokale Schnittstelle erleben, nicht die Gesamtheit der Möglichkeiten.
+## 6. Du willst die Wende? Dann beweg dich
 
-### Dritte Schicht: das verzweigungskollektive Selbst
+Eine Überzeugung führt kein Telefonat, lernt keine Fähigkeit und trägt keine
+Folgen für dich.
 
-Fasst man die Versionen des Subjekts in Vergangenheit, Gegenwart, Zukunft und allen möglichen Verzweigungen zusammen, entsteht das verzweigungskollektive Selbst.
+Soll sich das Ergebnis ändern, musst du dich wirklich bewegen.
 
-Dieses Kollektiv ist keine Abstimmungsorganisation. Es ist eine Erweiterung der Identität:
+> **Richtung wählen → anfangen → Ergebnis ansehen → Kurs ändern → weitermachen.**
 
-> Das gegenwärtige Selbst wird nicht länger als einziger isolierter Punkt verstanden, sondern als lokale Erscheinung innerhalb einer Gemeinschaft aller möglichen Versionen.
+Kein großes Ritual. Du musst dich auch nicht erst unbesiegbar fühlen.
 
-### Vierte Schicht: das Nichts-Geist-Selbst
+Mach einen echten Schritt. Lass die Wirklichkeit antworten. Nutze die Antwort,
+damit der nächste Schritt klüger wird.
 
-Körper, Erinnerungen und Ziele können sich verändern, doch ein bestimmtes Handlungsmuster kann weiter ausgeführt werden:
+## 7. „Möglich“ und „leicht“ sind nicht dasselbe
 
-> Auch ohne letztgültigen Sinn kann ich weiterhin wählen, etwas wichtig nehmen, schaffen und handeln.
+Stell zwei getrennte Fragen:
 
-Dieses immer wieder instanziierbare Muster ist das Nichts-Geist-Selbst.
+1. **Gibt es noch einen Weg?** Ist das von meinem heutigen Stand aus wirklich
+   erreichbar?
+2. **Wie schwer ist der Weg?** Wie viel Zeit, Können, Hilfe und Glück könnte er
+   verlangen?
 
-### Fünfte Schicht: das Selbst als das Nichts selbst
+Ein schwerer Weg ist nicht automatisch ein gesperrter Weg.
 
-Das Nichts ist hier weder ein leerer Raum noch eine schwarze Fläche, denn beides wäre immer noch etwas Existierendes.
+Eine Fähigkeit lernen, einen Verbündeten finden oder einen alten Fehler nicht
+wiederholen: All das kann die Chancen verändern.
 
-Es kommt eher diesem Gedanken nahe:
+Frag nicht länger: „Beweist das, dass ich nichts tauge?“
 
-> ein undifferenzierter Hintergrund, der selbst durch das Erscheinen von Existenz nicht aufgehoben wird.
+Frag: **„Was genau ist gescheitert, und welche Bedingung kann ich als Nächstes
+ändern?“**
 
-So wie das, was uns wichtig ist, echte Gleichgültigkeit nicht zerstören kann, kann Existenz dieses Nichts nicht zerstören.
+Diese Frage kann die Wirklichkeit verändern.
 
-## 6. Das Kopräsenzfeld der Verzweigungen
+## 8. Was du nutzen kannst, ohne alles zu glauben
 
-Stell dir eine kreisförmige Bibliothek vor, die keine Koordinaten in der physischen Wirklichkeit einnimmt. Jedes Buch ist eine mögliche Version von dir. Dein gegenwärtiges Selbst kann nur eine Seite in einem dieser Bücher lesen, doch alle Bücher gehören zum selben Bestand.
+Der grundlegende Denkrahmen macht vier Aussagen:
 
-Diese „Bibliothek“ heißt **Kopräsenzfeld der Verzweigungen**.
+1. Die Welt verlangt keinen letzten Sinn von dir.
+2. Eine Niederlage kann keinen ganzen Menschen definieren.
+3. Wer du heute bist, umfasst noch nicht alles, was aus dir werden kann.
+4. Ergebnisse ändern sich durch Handeln, Rückmeldung und Anpassung.
 
-Sie kann auf drei Arten gelesen werden:
+Dafür musst du weder Mystik noch Metaphysik schlucken.
 
-1. **Erlebnisbezogene Lesart**: Eine Person empfindet subjektiv und tatsächlich, dass sie kein isolierter Einzelpunkt ist.
-2. **Selbstmodell-Lesart**: Eine abstrakte Menge ordnet Identität über Zeit und Möglichkeiten hinweg.
-3. **Ontologische Lesart**: Das Feld ist eine Struktur, die unabhängig von geistiger Tätigkeit wirklich existiert.
+Die vier Gedanken helfen dir, dem Nichts ins Gesicht zu sehen, einen Treffer
+einzustecken und weiterzugehen, ohne dir den Schaden schönzureden.
 
-Die ersten beiden Lesarten setzen nicht voraus, dass die dritte zuvor bewiesen wurde. In einer öffentlichen Diskussion muss kenntlich gemacht werden, welche Lesart man verwendet.
+## 9. Jetzt kommt die härteste Setzung
 
-## 7. Die Verzweigungskonvergenz der ersten Person
+Der vollständige Denkrahmen fügt eine viel stärkere Aussage hinzu.
 
-Dies ist das stärkste und zugleich am leichtesten angreifbare Axiom des Rahmens:
+Zwei Bedingungen müssen bestehen bleiben:
 
-> Solange ein Ziel weiterhin möglich ist und das Subjekt sich weiter auf dieses Ziel hinbewegt, wird sich die gegenwärtige Erste-Person-Perspektive letztlich notwendigerweise in einer Verzweigung manifestieren, in der ein zukünftiges Selbst bestätigt, dass das Ziel verwirklicht wurde.
+1. Das Ziel bleibt für dich in der Wirklichkeit tatsächlich erreichbar.
+2. Du handelst weiter, lernst und änderst den Kurs, wenn die Wirklichkeit antwortet.
 
-Das ist eine stärkere Behauptung als: „In irgendeiner Parallelwelt hat jemand Erfolg.“ Sie besagt nicht nur, dass der Erfolgszustand in der Gesamtheit enthalten ist, sondern auch, dass die Erfahrung der ersten Person auf diesen Zustand hin konvergiert.
+Solange beides gilt, setzt der Denkrahmen alles auf eine Karte:
 
-Ein Fluss kann als Metapher dienen:
+> **Du wirst das Ziel am Ende erreichen. Eines Tages kann dein zukünftiges Ich
+> sagen: „Ich habe es geschafft.“**
 
-- Die Gesamtheit der Möglichkeiten ist das gesamte Netz der Flussarme.
-- Das Ziel ist das Meer, das vorläufig die Richtung vorgibt.
-- Handeln verändert fortwährend den gegenwärtigen Strom.
-- Das Axiom der Konvergenz der ersten Person behauptet: Solange ein Weg zu diesem Meer möglich bleibt, wird der Erfahrungsstrom letztlich einen Ausgang erreichen, den das zukünftige Selbst als „Ankunft“ erkennt.
+Du erreichst es selbst. Kein anderes Ich in einem anderen Universum. Kein
+positives Denken vom Sofa aus.
 
-Diese Metapher ist kein Beweis. Gegenwärtig ist kein empirisch bestätigter Mechanismus bekannt, durch den die erste Person eine solche Kontinuität über Verzweigungen hinweg erlangen würde. Deshalb bezeichnet dieses Projekt die Behauptung ausdrücklich als **Axiom** und nicht als wissenschaftliche Schlussfolgerung.
+Der eigentliche Sprung steckt im Wort **wirst**. Es folgt nicht automatisch aus
+dem Wort „möglich“. Wahrscheinlichkeit allein macht aus einer Möglichkeit keine
+Gewissheit.
 
-## 8. Dynamische Ziele
+Lehnst du diese Setzung ab, bleiben die ersten vier Gedanken brauchbar. Nimmst du
+sie an, nimmst du den vollständigen Denkrahmen an.
 
-Ein Kind sagt: „Ich will das beste Verkehrsmittel bauen“, kennt aber weder Züge noch Fluggeräte oder künftige Technologien. Es kann zunächst nur etwas über Räder, Materialien und Antriebe lernen.
+## 10. Kein Laborkittel nötig—aber auch keiner vorgetäuscht
 
-Viele Jahre später stellt es vielleicht fest, dass es ihm in Wahrheit nicht darum ging, „ein bestimmtes Fahrzeug zu bauen“, sondern darum, „Menschen freiere Bewegung zu ermöglichen“.
+Das hier ist kein Naturgesetz. Als philosophischer Ausgangspunkt braucht es kein
+wissenschaftliches Gütesiegel.
 
-Hat sich das Ziel verändert? Ja. In diesem Beispiel ist die übergeordnete Richtung kontinuierlich geblieben; in anderen Fällen können neue Tatsachen, neue Erkenntnisse oder ethische Urteile einen ehrlichen Richtungswechsel erforderlich machen.
+Die Prüfung ist logisch: Passen die Aussagen zusammen, oder schlägt der Denkrahmen
+ein Loch in sich selbst?
 
-Der Kreis der Möglichkeiten teilt Ziele in zwei Schichten:
+Vier Dinge gehören trotzdem in vier verschiedene Schubladen:
 
-- **Gegenwärtiges Ziel**: das konkrete Ergebnis, das sich mit dem heutigen Wissen beschreiben lässt;
-- **Richtungsattraktor**: die übergeordnete Richtung, die mit wachsendem Wissen fortlaufend neu interpretiert und bei Bedarf auch ehrlich aktualisiert werden kann.
+- „Mir hat das geholfen“ ist ein persönlicher Erfahrungsbericht.
+- „Ich mache weiter“ ist ein praktischer Entschluss.
+- „Am Ende werde ich ankommen“ ist die metaphysische Setzung dieses Denkrahmens.
+- „Experimente beweisen das“ wäre eine wissenschaftliche Aussage—und die wird
+  hier nicht gemacht.
 
-Erfolg bedeutet letztlich nicht, eine in jungen Jahren festgeschriebene Liste abzuarbeiten. Er bedeutet, dass ein zukünftiges Selbst mit vollständigerem Verständnis ehrlich bestätigen kann:
+Ein Beispiel kann einen Gedanken verständlich machen. Es beweist nicht, dass die
+Natur so funktioniert.
 
-> Ich bin dort angekommen, wohin ich wirklich wollte.
+## 11. Wie die fünf Teile ineinandergreifen
 
-## 9. Das „Letztliche“ außerhalb der Zeit
+> **Kein kosmischer Lösungsbogen**
+>
+> ↓
+>
+> **Eine Niederlage definiert keinen ganzen Menschen**
+>
+> ↓
+>
+> **Das heutige Ich ist nicht das ganze Ich**
+>
+> ↓
+>
+> **Handeln, Antwort ansehen, Kurs ändern**
+>
+> ↓
+>
+> **Die letzte Setzung: Bleibt der Weg offen, geh weiter, bis du ankommst**
 
-Wenn von unendlicher Zeit die Rede ist, kann „letztlich“ noch eine äußerst ferne Zukunft bedeuten.
+Die Pfeile zeigen die Reihenfolge des Gedankens. Sie tun nicht so, als würde eine
+Zeile die nächste mathematisch beweisen.
 
-Wenn von etwas außerhalb der Zeit die Rede ist, verliert „später“ seine Bedeutung. Präziser wäre dann:
+Alle Teile liegen offen auf dem Tisch. Jeder darf angegriffen werden. Die einzige
+Regel: Zusammen dürfen sie sich nicht widersprechen.
 
-> Der Zielzustand ist bereits in der zeitlosen Gesamtheit der Möglichkeiten enthalten.
+## 12. Warum das nicht bloß Optimismus in neuer Verpackung ist
 
-Der lokale Körper handelt weiterhin einen Tag nach dem anderen. Die zeitlose Gesamtheit wartet hingegen nicht auf einen bestimmten Tag, bevor sie das Ergebnis hervorbringt. Es handelt sich um zwei verschiedene Beobachtungsebenen.
+„Das Leben hat keinen Sinn“ ist alt. Niederlage, Wahl, Handeln und das zukünftige
+Ich sind ebenfalls alte Themen.
 
-## 10. Wie können mehrere Beobachter alle „notwendig erfolgreich“ sein?
+Ungewöhnlich ist, sie so zu verbinden, dass keines das andere auslöscht:
 
-Angenommen, A und B nehmen an einem Wettbewerb teil, bei dem es nur einen Sieger geben kann, und beide machen den Sieg zu ihrem Ziel.
+- kein letzter Sinn und trotzdem ernsthaftes Handeln;
+- echte Niederlagen ohne lebenslanges Urteil;
+- ein größeres Ich ohne Science-Fiction-Fluchtweg;
+- harter Glaube ohne Abkürzung an der Arbeit vorbei;
+- Freiheit ohne Flucht vor den Folgen.
 
-Wenn es nur eine einzige Wirklichkeit gibt, können nicht beide gewinnen.
+touen hat den Denkrahmen zuerst an sich selbst erprobt. Das Ergebnis war kein
+Leben ohne Niederlagen. Er ließ sich von Niederlagen und dem Nichts nur nicht mehr
+so leicht einschüchtern und handelte ruhiger und beständiger, selbst bei großen
+Zielen.
 
-Der Rahmen verwendet eine beobachterrelative Interpretation der Verzweigungen:
+Das ist eine vorläufige persönliche Erfahrung, kein Beweis. Der Denkrahmen ist
+öffentlich, damit andere ihn nutzen, anzweifeln und prüfen können, wo er trägt—und
+wo nicht.
 
-- Solange das Ziel von A möglich bleibt und A weiter in seine Richtung handelt, setzt sich die Erste-Person-Perspektive von A gemäß dem Konvergenzaxiom notwendig in der entsprechenden Verzweigung fort, in der A gewinnt.
-- Solange das Ziel von B möglich bleibt und B weiter in seine Richtung handelt, setzt sich die Erste-Person-Perspektive von B gemäß dem Konvergenzaxiom notwendig in der entsprechenden Verzweigung fort, in der B gewinnt.
-- Jede Verzweigung enthält weiterhin die entsprechende Version der jeweils anderen Person.
-- Es gibt keine einzige privilegierte Welt, die alle Ziele der ersten Person zugleich erfüllen muss.
+Der formale Name fällt genau einmal, und zwar hier:
+**Probability–Void–Branch Collective Self Framework**.
 
-Diese Antwort vermeidet einen unmittelbaren logischen Widerspruch, wirft jedoch eine tiefer gehende Frage auf: Wie teilen verschiedene Erste-Person-Perspektiven dieselbe öffentliche Wirklichkeit? Das bleibt eine offene Frage und ist kein bereits geklärter physikalischer Mechanismus.
+Vergiss den Namen ruhig. Merk dir den Motor:
 
-## 11. Wie sich der Rahmen im Leben verwenden lässt
+> **Fürchte nicht die Sinnlosigkeit. Bete Niederlagen nicht an. Bleib nicht liegen.
+> Solange der Weg offen ist, arbeite weiter, bis du es geschafft hast.**
 
-### Erster Schritt: Eine Richtung wählen
+## 13. Zuversicht ist kein Freifahrtschein
 
-Du musst nicht so tun, als wüsstest du schon die endgültige Antwort. Schreibe zunächst die Richtung auf, der du dich im Moment wirklich annähern möchtest.
+Hol dir medizinische Hilfe, wenn du sie brauchst. Wäge Risiken ab. Steh für den
+Schaden gerade, den du verursacht hast. Respektiere ein Nein. Halte dich an
+Gesetze. Halte deine Versprechen—oder trage die Folgen, wenn du sie brichst.
 
-### Zweiter Schritt: Den nächsten Schritt finden
+Eine Überzeugung macht keine Schulden ungeschehen, heilt keine Wunden und macht
+aus dem Nein eines anderen Menschen kein Ja.
 
-Frage nicht: „Wie erreiche ich sofort die endgültige Verzweigung?“, sondern:
+Auch Ziele dürfen sich ändern, wenn sich Fakten, Wissen oder die eigene ethische
+Einschätzung ändern. Das ist nicht feige, sondern kann ehrlich sein. Ein neues
+Ziel macht ein aufgegebenes Ziel aber nicht rückwirkend zu einem erreichten.
 
-> Welche heutige Handlung stimmt am besten mit dieser Richtung überein?
+> **Dieser Denkrahmen gibt dir Rückgrat. Deine Rechnung übernimmt er nicht.**
 
-### Dritter Schritt: Den Körper handeln lassen
+## 14. Wenn du dir nur drei Sätze merkst
 
-Eine E-Mail senden, einen Begriff lernen, eine Übung abschließen oder einen offensichtlich schädlichen Einsatz beenden: Die lokale Welt reagiert nur auf kausale Handlungen, die tatsächlich stattfinden.
+1. **Kein vorgegebener Sinn hindert dich daran, verdammt gut zu leben.**
+2. **Eine verlorene Runde macht nicht dein ganzes Leben zum Verlust.**
+3. **Ist der Weg noch offen, handle, korrigiere und geh weiter, bis es geschafft
+   ist.**
 
-### Vierter Schritt: Rückmeldungen auswerten
+[Zurück zur Projektstartseite](../../README.md) ·
+[Formale Spezifikation (vereinfachtes Chinesisch)](../zh-CN/FORMAL_SPEC.md) ·
+[Stärkste Einwände und Grenzen (vereinfachtes Chinesisch)](../zh-CN/CRITICISM.md)
 
-Zuversicht bedeutet nicht, Informationen zurückzuweisen. Ein falscher Weg, fehlendes Wissen und reale Grenzen sind Daten, die gebraucht werden, um die Darstellung des Ziels zu aktualisieren.
-
-### Fünfter Schritt: Einen lokalen Rückschlag nicht zum letztgültigen Urteil erheben
-
-Ein Scheitern kann ein wirkliches Scheitern sein, ohne daraus den Satz machen zu müssen: „Ich bin in jeder Hinsicht gescheitert.“
-
-### Sechster Schritt: Dem zukünftigen Selbst erlauben, die Sprache zu aktualisieren
-
-Die Richtung kann beibehalten oder angesichts neuer Tatsachen, Erkenntnisse oder ethischer Anforderungen gewechselt werden; auch ihr Name, ihre Werkzeuge und ihre Abschlusskriterien können reifen. Bei einem Wechsel müssen die Gründe ehrlich festgehalten werden; das alte Ziel darf nicht nachträglich als bereits erreicht umgedeutet werden.
-
-## 12. Welche Handlungen dieser Rahmen nicht rechtfertigen kann
-
-Dieser Rahmen kann nicht als Beweis dafür dienen, dass:
-
-- Gesetzesverstöße keine Folgen haben;
-- die Zustimmung anderer keine Rolle spielt;
-- körperliche Sicherheit, medizinischer Rat oder finanzielle Verluste ignoriert werden können;
-- Überzeugung allein Lernen, Zusammenarbeit und Handeln ersetzen kann;
-- jeder vorstellbare Satz notwendigerweise zu einem lokal erreichbaren Weg in der Wirklichkeit gehört;
-- die moderne Physik bestätigt hat, dass eine Erste-Person-Perspektive aktiv ein Universum wählen kann.
-
-Das Nichts löst das letztgültige Urteil auf; es beseitigt nicht die lokale Kausalität. Möglichkeit öffnet eine Richtung; sie handelt nicht anstelle des Körpers.
-
-## 13. Drei ehrliche Arten der Verwendung
-
-Du kannst den Kreis der Möglichkeiten betrachten als:
-
-1. **Handlungswerkzeug**: die Ontologie nicht annehmen und nur den Gedanken verwenden, dass das Fehlen eines letztgültigen Sinns Handeln nicht verbietet;
-2. **Selbstmodell**: Versionen über Zeit und Möglichkeiten hinweg als eine Gemeinschaft von Verzweigungen verstehen;
-3. **Vollständiges metaphysisches System**: das Axiom der Verwirklichung aller Möglichkeiten, die Kopräsenz der Verzweigungen und das Axiom der Konvergenz der ersten Person annehmen.
-
-Alle drei Lesarten können diskutiert werden. Unehrlich wäre allein, die dritte Lesart als experimentell bestätigte wissenschaftliche Tatsache auszugeben.
-
-## 14. Feynman-Selbsttest
-
-Wenn du den Rahmen wirklich verstanden hast, versuche, die folgenden Fragen ohne seine Fachbegriffe zu beantworten:
-
-1. Warum folgt aus „es gibt keinen letztgültigen Sinn“ nicht „ich muss aufgeben“?
-2. Was leisten Wahrscheinlichkeit / Möglichkeit und das Nichts jeweils?
-3. Warum sind die fünf Schichten des Selbst nicht fünf Dinge derselben Art?
-4. Warum ist die Verzweigungskonvergenz der ersten Person ein Axiom und keine Schlussfolgerung der Physik?
-5. Warum bedeutet eine Veränderung des Ziels nicht zwangsläufig ein Scheitern?
-6. Warum verlangt dieser Rahmen weiterhin körperliches Handeln und Rückmeldung aus der Wirklichkeit?
-
-Diese Fragen mit eigenen Beispielen beantworten zu können, ist wichtiger, als Definitionen auswendig zu lernen.
-
----
-
-[Zurück zur Projektstartseite](../../README.md) · [Formale Spezifikation](../zh-CN/FORMAL_SPEC.md) · [Fiktive Beispiele](../zh-CN/EXAMPLES.md) · [Einwände](../zh-CN/CRITICISM.md)
-
-> Übersetzungsstatus: vollständige Übersetzung des grundlegenden Leitfadens auf vereinfachtem Chinesisch; erneut zu prüfen, sobald sich die Ausgangstheorie ändert.
+> Übersetzungsstatus: vollständig in natürliches Deutsch neu geschrieben und an
+> die aktuelle chinesische Startseite angeglichen; bei Änderungen am
+> Ausgangsrahmen erneut prüfen.
