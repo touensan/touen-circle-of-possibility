@@ -1,0 +1,30 @@
+# Private sources must never enter this repository.
+private/
+raw/
+sources-private/
+archive/
+
+# Personal archives and source media.
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.heic
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.mp4
+*.mov
+*.m4a
+
+# Local and editor files.
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.tmp
+__pycache__/
+*.pyc

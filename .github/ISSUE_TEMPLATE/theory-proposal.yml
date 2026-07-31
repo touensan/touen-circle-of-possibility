@@ -1,0 +1,69 @@
+name: 理论提案
+description: 提议新增、修改或质疑核心概念、公理与推论
+title: "[理论] "
+labels:
+  - "theory"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢你认真检验这个框架。请只讨论公开文本，不要提供作者或任何第三方的私人经历、聊天、截图或身份线索。
+  - type: dropdown
+    id: layer
+    attributes:
+      label: 主要涉及哪一层？
+      options:
+        - 体验陈述
+        - 实践公理
+        - 外部本体论
+        - 同时涉及多层
+        - 尚不确定
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: 涉及的公开章节或术语
+      description: 请给出文件路径、标题或公开链接，不要粘贴私人资料。
+      placeholder: "例如：docs/zh-CN/FORMAL_SPEC.md 的“A6：第一人称收敛”"
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: 当前主张
+      description: 请用自己的话准确复述你所理解的当前主张。
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题或最强反对意见
+      description: 指出推理跳步、矛盾、歧义、不可验证之处或现实风险。
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 建议的改法
+      description: 若主张需要改变，请写出修改后的白话说明或定义。
+    validations:
+      required: true
+  - type: textarea
+    id: consequences
+    attributes:
+      label: 推论、代价与受影响内容
+      description: 它能推出什么、不能推出什么？哪些章节或翻译需要同步？
+    validations:
+      required: true
+  - type: checkboxes
+    id: boundaries
+    attributes:
+      label: 边界确认
+      options:
+        - label: 我没有把个人体验冒充外部事实或科学证明。
+          required: true
+        - label: 我没有提交任何私人原稿、真实经历或可识别信息。
+          required: true
+        - label: 我考虑了法律、健康、事实反馈、他人同意和现实代价。
+          required: true

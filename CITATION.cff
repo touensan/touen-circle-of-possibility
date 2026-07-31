@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "如果本项目帮助了你的研究、写作或创作，请引用以下信息。"
+title: "多恩可能性之圆：概率—虚无—分支集体自我框架"
+abstract: >-
+  《可能性之圆》是一项开放的哲学写作项目。它以世界没有预设终极意义为哲学公理，
+  并讨论如何以概率、虚无、分支集体自我、动态目标和第一人称分支收敛组织理解与行动。
+  项目明确区分体验陈述、实践公理和未经经验证实的外部本体论设想。
+authors:
+  - family-names: "多恩"
+    alias: "touen"
+version: "0.1.0"
+date-released: "2026-07-31"
+repository-code: "https://github.com/touensan/touen-circle-of-possibility"
+keywords:
+  - "可能性"
+  - "虚无"
+  - "分支集体自我"
+  - "动态目标"
+  - "哲学"
+  - "Circle of Possibility"
+license: "CC-BY-SA-4.0"
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: "多恩"
+      alias: "touen"
+  title: "多恩可能性之圆：概率—虚无—分支集体自我框架"
+  year: 2026
+  version: "0.1.0"
