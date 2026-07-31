@@ -32,6 +32,9 @@ PRIVATE_MEDIA_SUFFIXES = {
     ".webp",
     ".zip",
 }
+PUBLIC_BINARY_ASSETS = {
+    Path("assets/possibility-hero.webp"),
+}
 REQUIRED_FILES = (
     "README.md",
     "MANIFESTO.md",
@@ -42,7 +45,7 @@ REQUIRED_FILES = (
     "CHANGELOG.md",
     "LICENSE",
     "SECURITY.md",
-    "assets/possibility-circle.svg",
+    "assets/possibility-hero.webp",
 )
 MARKDOWN_LINK = re.compile(r"!?\[[^\]]*]\(([^)]+)\)")
 NUMBERED_H2 = re.compile(r"^##\s+(\d+)\.", re.MULTILINE)
@@ -69,8 +72,14 @@ def main() -> int:
         relative = path.relative_to(ROOT)
         if path.stat().st_size > 1_000_000:
             errors.append(f"file exceeds 1 MB: {relative}")
-        if path.suffix.lower() in PRIVATE_MEDIA_SUFFIXES:
+        if (
+            path.suffix.lower() in PRIVATE_MEDIA_SUFFIXES
+            and relative not in PUBLIC_BINARY_ASSETS
+        ):
             errors.append(f"private/raw media format is not allowed: {relative}")
+
+        if relative in PUBLIC_BINARY_ASSETS:
+            continue
 
         try:
             raw = path.read_bytes()
