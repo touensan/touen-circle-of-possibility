@@ -251,6 +251,6 @@ Answering with examples of your own matters more than memorizing any definition.
 
 ---
 
-[Back to project home](../../README.md) · [Formal specification (Simplified Chinese)](../zh-CN/FORMAL_SPEC.md) · [Fictional examples (Simplified Chinese)](../zh-CN/EXAMPLES.md) · [Objections (Simplified Chinese)](../zh-CN/CRITICISM.md)
+[Back to project home](../../README.md) · [Formal specification (Simplified Chinese)](../zh-CN/FORMAL_SPEC.md) · [Objections (Simplified Chinese)](../zh-CN/CRITICISM.md)
 
 > Translation status: Complete translation of the Simplified Chinese core guide; review again whenever the source theory changes.

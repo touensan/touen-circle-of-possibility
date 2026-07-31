@@ -251,6 +251,6 @@ Saper rispondere con esempi propri conta più che memorizzare qualsiasi definizi
 
 ---
 
-[Torna alla pagina principale del progetto](../../README.md) · [Specifica formale](../zh-CN/FORMAL_SPEC.md) · [Esempi fittizi](../zh-CN/EXAMPLES.md) · [Obiezioni](../zh-CN/CRITICISM.md)
+[Torna alla pagina principale del progetto](../../README.md) · [Specifica formale](../zh-CN/FORMAL_SPEC.md) · [Obiezioni](../zh-CN/CRITICISM.md)
 
 > Stato della traduzione: traduzione completa della guida fondamentale in cinese semplificato; da riesaminare ogni volta che la teoria di riferimento cambia.

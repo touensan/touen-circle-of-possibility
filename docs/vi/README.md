@@ -251,6 +251,6 @@ Có thể dùng ví dụ của chính mình để trả lời những câu hỏi
 
 ---
 
-[Trở về trang chủ dự án](../../README.md) · [Đặc tả hình thức (tiếng Trung)](../zh-CN/FORMAL_SPEC.md) · [Các trường hợp hư cấu (tiếng Trung)](../zh-CN/EXAMPLES.md) · [Các phản biện (tiếng Trung)](../zh-CN/CRITICISM.md)
+[Trở về trang chủ dự án](../../README.md) · [Đặc tả hình thức (tiếng Trung)](../zh-CN/FORMAL_SPEC.md) · [Các phản biện (tiếng Trung)](../zh-CN/CRITICISM.md)
 
 **Tình trạng bản dịch:** Bản dịch tiếng Việt đầy đủ của tài liệu hướng dẫn cốt lõi, dựa trên bản tiếng Trung giản thể chính thức. Các phép so sánh và ví dụ hư cấu chỉ dùng để hỗ trợ việc hiểu, không phải là bằng chứng cho khuôn khổ này.

@@ -251,6 +251,6 @@
 
 ---
 
-[返回專案首頁](../../README.md) · [形式化說明（簡體中文）](../zh-CN/FORMAL_SPEC.md) · [虛構案例（簡體中文）](../zh-CN/EXAMPLES.md) · [反對意見（簡體中文）](../zh-CN/CRITICISM.md)
+[返回專案首頁](../../README.md) · [形式化說明（簡體中文）](../zh-CN/FORMAL_SPEC.md) · [反對意見（簡體中文）](../zh-CN/CRITICISM.md)
 
 > 翻譯狀態：已依照簡體中文核心導讀完整翻譯；理論更新時仍需與原文同步校對。

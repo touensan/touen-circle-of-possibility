@@ -251,6 +251,6 @@ Répondre à ces questions avec vos propres exemples importe davantage que de m�
 
 ---
 
-[Retour à l’accueil du projet](../../README.md) · [Spécification formelle](../zh-CN/FORMAL_SPEC.md) · [Exemples fictifs](../zh-CN/EXAMPLES.md) · [Objections](../zh-CN/CRITICISM.md)
+[Retour à l’accueil du projet](../../README.md) · [Spécification formelle](../zh-CN/FORMAL_SPEC.md) · [Objections](../zh-CN/CRITICISM.md)
 
 > État de la traduction : traduction complète du guide fondamental en chinois simplifié ; à réviser chaque fois que la théorie source évolue.

@@ -251,6 +251,6 @@ Diese Fragen mit eigenen Beispielen beantworten zu können, ist wichtiger, als D
 
 ---
 
-[Zurück zur Projektstartseite](../../README.md) · [Formale Spezifikation](../zh-CN/FORMAL_SPEC.md) · [Fiktive Beispiele](../zh-CN/EXAMPLES.md) · [Einwände](../zh-CN/CRITICISM.md)
+[Zurück zur Projektstartseite](../../README.md) · [Formale Spezifikation](../zh-CN/FORMAL_SPEC.md) · [Einwände](../zh-CN/CRITICISM.md)
 
 > Übersetzungsstatus: vollständige Übersetzung des grundlegenden Leitfadens auf vereinfachtem Chinesisch; erneut zu prüfen, sobald sich die Ausgangstheorie ändert.

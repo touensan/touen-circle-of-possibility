@@ -64,7 +64,7 @@ It must also preserve these qualifications:
   facts, or ethical judgment change; a new goal does not retroactively complete
   an abandoned one;
 - local actions and consequences remain real;
-- the examples are fictional and are not evidence.
+- explanatory examples are abstract and are not evidence.
 
 ## Formatting
 
@@ -73,6 +73,6 @@ It must also preserve these qualifications:
 - Use native punctuation and readable local prose.
 - Link back to `../../README.md` from each locale guide.
 - Supporting documents currently exist only in `zh-CN`; locale guides must link
-  to `../zh-CN/FORMAL_SPEC.md`, `../zh-CN/EXAMPLES.md`, and
-  `../zh-CN/CRITICISM.md` instead of creating broken local links.
+  to `../zh-CN/FORMAL_SPEC.md` and `../zh-CN/CRITICISM.md` instead of creating
+  broken local links.
 - End each guide with a translation status note.

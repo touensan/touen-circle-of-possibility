@@ -68,7 +68,7 @@ body:
     attributes:
       label: 翻译边界
       options:
-        - label: 我会保留免责声明、虚构案例标记和三层陈述。
+        - label: 我会保留关键边界和三层陈述。
           required: true
         - label: 我不会自行把形而上公理改写为科学事实。
           required: true
